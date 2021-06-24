@@ -1,0 +1,6 @@
+C:\ST\Automation\C#Workspace\Sheetal class\Greatestnumberfromthree\bin\Debug\Greatestnumberfromthree.exe.config
+C:\ST\Automation\C#Workspace\Sheetal class\Greatestnumberfromthree\bin\Debug\Greatestnumberfromthree.exe
+C:\ST\Automation\C#Workspace\Sheetal class\Greatestnumberfromthree\bin\Debug\Greatestnumberfromthree.pdb
+C:\ST\Automation\C#Workspace\Sheetal class\Greatestnumberfromthree\obj\Debug\Greatestnumberfromthree.csproj.CoreCompileInputs.cache
+C:\ST\Automation\C#Workspace\Sheetal class\Greatestnumberfromthree\obj\Debug\Greatestnumberfromthree.exe
+C:\ST\Automation\C#Workspace\Sheetal class\Greatestnumberfromthree\obj\Debug\Greatestnumberfromthree.pdb
